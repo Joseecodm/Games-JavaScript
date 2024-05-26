@@ -1,6 +1,6 @@
-# Instituto Tecnologico Superior del Occidente del Estado de Hidalgo
-### División de Ingenieria en Tecnologias de la información y Comunicaciones
+# Instituto Tecnológico Superior del Occidente del Estado de Hidalgo
+### División de Ingeniería en Tecnologías de la Información y Comunicaciones
 
 - Alumno:
 
-- José Manuel Cortes Cerón - 230110688 - 2A 
+- José Manuel Cortés Cerón - 230110688 - 2°A
